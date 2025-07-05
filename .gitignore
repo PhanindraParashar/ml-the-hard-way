@@ -3,6 +3,15 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Repo related files not to be tracked
+Data/
+.DS_Store
+../.conda/
+../.trunk/
+.conda/
+.trunk/
+test.ipynb
+
 # C extensions
 *.so
 
